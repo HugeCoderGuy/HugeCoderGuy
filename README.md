@@ -3,7 +3,7 @@
 
 
   
-- I currently work at LLNL focusing on embedded systems <a href="https://www.linkedin.com/in/alex-lewis-036635199/">
+- I currently work at LLNL automating tests embedded systems & developmental sensors <a href="https://www.linkedin.com/in/alex-lewis-036635199/">
   <img align="center" alt="Alex's LinkedIN" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
