@@ -22,6 +22,8 @@
 <img src="https://github.com/Drojas251/Drojas251/blob/master/media/autonomous_navigation.gif">
 </p>
   For my robotics master course, our team implemented a turtlebot with a Velodyne Puck in Gazebo with an A* path planning algorithm to identify the sensor's ability to identify nonlinear wires of varying guage. I worked on processing the lidar point cloud and translating it to a world map that could then be handed off to the A* algorithm. The updating world map can be seen in the above gif in our gazebo test course. 
+  
+  Update: Check out my own implementation of [A* in this repo](https://github.com/HugeCoderGuy/myAStar)!
 
 <p align="center">
 <a href="https://github.com/Drojas251/mae252_autonomous_robotics">
