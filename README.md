@@ -4,10 +4,10 @@
 
   
 - I currently work at LLNL automating tests embedded systems & developmental sensors <a href="https://www.linkedin.com/in/alex-lewis-036635199/">
-  <img align="center" alt="Alex's LinkedIN" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="center" alt="LinkedIn" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-- Continuing graduate education at UC Davis :man_student:
+- Continuing graduate education at Georgia Tech :man_student:
 - Enjoys ski touring, mountain biking, triathlon, ect. :mountain_snow:
 - I stay busy with projects such as these below :arrow_heading_down:
 <br>
