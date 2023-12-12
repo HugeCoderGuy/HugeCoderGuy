@@ -4,7 +4,7 @@
 
   
 - I currently work at LLNL automating tests embedded systems & developmental sensors <a href="https://www.linkedin.com/in/alex-lewis-036635199/">
-  <img align="center" alt="LinkedIn" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="center" alt="LinkedIn" width="16px" src="https://i.stack.imgur.com/gVE0j.png" />
 </a>
 
 - Continuing graduate education at Georgia Tech :man_student:
@@ -15,7 +15,7 @@
 
 
 
-## :electron: My Fun Projects:
+## :atom: My Fun Projects:
 
 ### Lidar's Ability to Identify Wires (12/2021):
 <p align="center">
@@ -81,12 +81,29 @@ Your classic arduino project with an IOT twist. I designed the housing in Solidw
   
 </p>
 
-#### Mother's Day Present
+#### Various Arduino Projects
+<style>
+  .imgContainer{
+    float:left;
+}
+</style>
 
-<p align="center">
-<img src="https://media.giphy.com/media/qAquaANVehjxRw4c3f/giphy-downsized.gif">
-</p>
-My mom requested a water mirror for her garden so she could track how deep watering the plants differed from shallow watering them with water resused from our showers/cleaning. Luckily, she appreciated the present despite the rather haphazard design. 
+<div class="image123">
+    <div class="imgContainer">
+        <img src="https://media.giphy.com/media/qAquaANVehjxRw4c3f/giphy-downsized.gif" width="180"/>
+        <p>Moisture Meter</p>
+    </div>
+    <div class="imgContainer">
+        <img class="middle-img" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnlzOWNxdzNxNWV2enRpMWkyNzVjZm81eGl3bjduOWJ1dDByNHJjaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bPU28aVSPTZD1jshhe/giphy-downsized-large.gif" width="180"/>
+        <p>Solar Powered Fish Light</p>
+    </div>
+    <div class="imgContainer">
+         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGRrYnRtZ2F6dHk2NTQ2b3Zrd2IzZXlxNmhta2pjbmFjenppejg0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VB4tf9hPxThnDz2QFP/giphy-downsized-large.gif" width="180"/>
+        <p>Fridge Alarm</p>
+    </div>
+</div>
+
+
 
 <p align="center">
   
