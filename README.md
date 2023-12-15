@@ -15,7 +15,7 @@
 
 
 
-## :atom: My Fun Projects:
+## Some Things I've Worked on:
 
 ### Lidar's Ability to Identify Wires (12/2021):
 <p align="center">
@@ -82,26 +82,12 @@ Your classic arduino project with an IOT twist. I designed the housing in Solidw
 </p>
 
 #### Various Arduino Projects
-<style>
-  .imgContainer{
-    float:left;
-}
-</style>
 
-<div class="image123">
-    <div class="imgContainer">
-        <img src="https://media.giphy.com/media/qAquaANVehjxRw4c3f/giphy-downsized.gif" width="180"/>
-        <p>Moisture Meter</p>
-    </div>
-    <div class="imgContainer">
-        <img class="middle-img" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnlzOWNxdzNxNWV2enRpMWkyNzVjZm81eGl3bjduOWJ1dDByNHJjaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bPU28aVSPTZD1jshhe/giphy-downsized-large.gif" width="180"/>
-        <p>Solar Powered Fish Light</p>
-    </div>
-    <div class="imgContainer">
-         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGRrYnRtZ2F6dHk2NTQ2b3Zrd2IzZXlxNmhta2pjbmFjenppejg0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VB4tf9hPxThnDz2QFP/giphy-downsized-large.gif" width="180"/>
-        <p>Fridge Alarm</p>
-    </div>
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/qAquaANVehjxRw4c3f/giphy-downsized.gif" width="180"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejVxOXpqZTN6ZTE0YXMweGxxbGJvbnptZW0zNHZxbm40dG1wcndxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bPU28aVSPTZD1jshhe/giphy-downsized.gif" width="180" hspace=10/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGRrYnRtZ2F6dHk2NTQ2b3Zrd2IzZXlxNmhta2pjbmFjenppejg0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VB4tf9hPxThnDz2QFP/giphy-downsized-large.gif" width="180" hspace=20/>
+</p>
 
 
 
