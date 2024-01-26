@@ -21,7 +21,7 @@ I've done quite a few projects between work and school that aren't captured here
 
 However, a lot of that stuff is done between work and school. Here are some examples of projects I've done mostly because I thought they'd be fun
 ## Some (fun) Things I've Worked on:
-### Lidar's Ability to Identify Wires (12/2021):
+### Lidar's Ability to Identify Wires (Python/ROS):
 <p align="center">
 <img src="https://github.com/Drojas251/Drojas251/blob/master/media/autonomous_navigation.gif">
 <img src="https://media.giphy.com/media/cBVM1pTdFJS8H7whEU/giphy.gif" width="480">
@@ -40,11 +40,11 @@ However, a lot of that stuff is done between work and school. Here are some exam
 
 
 
-### Raspberry Pi Dash Camera (8/2022)
+### Raspberry Pi Dash Camera (Python)
 <p align="center">
 <img src="https://media.giphy.com/media/Jx5bLprFNUCUhqeEbr/giphy-downsized.gif" width="500" align="center">
 </p>
-I was reviewing dash cameras online and realized that I could make one myself. The circuit and software were certainly more challenging than I originally thought, but it was a great opportunity to introduce myself to some crucial python skills. 
+I was reviewing dash cameras online and realized that I could make one myself. The circuit and software were certainly more challenging than I originally thought, but it was a great opportunity to play around under the hood of a linux device. 
 
 <p align="center">
 
@@ -55,13 +55,13 @@ I was reviewing dash cameras online and realized that I could make one myself. T
 </p>
 
 
-### Automated Leaf Area Measurements (3/2022)
+### Automated Leaf Area Measurements (Python/Bash)
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/81666253/189248803-91d10dcb-2914-43da-96c0-5be8b8195994.png" width="750">
 </p>
 
-I worked on this project for the UC Davis Bloom Lab to deploy and improve another labmate's leaf area software to increase throughput and accuracy using a Raspbery Pi. I completed the GUI w/ Tkinter, automatic Google Cloud image sync using their API, and designed the 3D printed enclosure and circuit myself. 
+I worked on this project for the UC Davis Bloom Lab to deploy and improve another labmate's leaf area software to increase throughput and accuracy using a Raspbery Pi. I completed the GUI w/ Tkinter, automatic Google Cloud image sync using their API, and finally designed the 3D printed enclosure and circuit myself. 
 
 
 
@@ -72,11 +72,11 @@ I worked on this project for the UC Davis Bloom Lab to deploy and improve anothe
 </a>  
 </p>
 
-### Desk Sensor Suite (6/2022)
+### Desk Sensor Suite (C++)
 <p align="center">
 <img src="https://media.giphy.com/media/VxLLXeweBaHsRnHc60/giphy-downsized-large.gif">
 </p>
-Your classic arduino project with an IOT twist. I designed the housing in Solidworks, built the circuit with some trial and error, and integrated everything in Cpp myself. Many of the features can be seen above, but many more can be found in the link below ;)
+Your classic arduino project with an IOT twist. I designed the housing in Solidworks, built the circuit with some trial and error, and integrated everything in C++ myself. Many of the features can be seen above, but many more can be found in the link below. Biggest challenge of this project was probably integrating the ThingSpeak API with the ESP8266 wifi module serial protocols. 
 <p align="center">
 
   <a href="https://github.com/HugeCoderGuy/Desk_Sensor_Suite">
@@ -85,7 +85,7 @@ Your classic arduino project with an IOT twist. I designed the housing in Solidw
   
 </p>
 
-#### Various Arduino Projects
+#### Various Arduino Projects (C++)
 
 <p align="center">
   <img src="https://media.giphy.com/media/qAquaANVehjxRw4c3f/giphy-downsized.gif" width="180"/>
