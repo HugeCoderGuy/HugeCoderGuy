@@ -15,9 +15,9 @@
 
 
 I've done quite a few projects between work and school that aren't captured here. Examples that come to mind are:
-* Working on substages of a compiler for the optimization of embedded systems through register allocation and instruction scheduling
-* Nodal simulation of three dimensions thermal systems to find steady state conditions
-* Drivers and parsers for in house firmware coms protocols to assist with data collection and testing
+* (C++) Working on substages of a compiler for the optimization of embedded systems through register allocation and instruction scheduling. [Code here!](https://github.com/HugeCoderGuy/Embedded_Optimization_Course/blob/main/vliwSched.cpp)
+* (Python) Network simulation and implementation of distance vector and Dijkstra's algorithms for topology convergence.
+* Drivers and parsers for in house firmware coms protocols to assist with data collection and testing.
 
 However, a lot of that stuff is done between work and school. Here are some examples of projects I've done mostly because I thought they'd be fun
 ## Some (fun) Things I've Worked on:
