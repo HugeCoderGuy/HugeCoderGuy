@@ -1,14 +1,13 @@
 ### Welcome 👋
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugeCoderGuy&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&layout=compact" alt="side Image" align="right" height="auto" href="https://github.com/HugeCoderGuy/HugeCoderGuy"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugeCoderGuy&hide=jupyter%20notebook,Shell,Cmake,Pascal,java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&layout=compact" alt="side Image" align="right" height="auto" hide=jupyter%20notebook href="https://github.com/HugeCoderGuy/HugeCoderGuy"/>
 
   
 - I currently work at LLNL creating software for embedded systems peripherals & developmental sensors <a href="https://www.linkedin.com/in/alex-lewis-036635199/">
-  <img align="center" alt="LinkedIn" width="16px" src="https://i.stack.imgur.com/gVE0j.png" />
+  <img align="center" alt="LinkedIn" width="60px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 - Continuing graduate education at Georgia Tech :man_student:
-- Enjoys ski touring, mountain biking, triathlon, ect. :mountain_snow:
+- Enjoys triathlon, mountain biking, backpacking, ect. :mountain_snow:
 - I stay busy with projects such as these below :arrow_heading_down:
 <br>
 
