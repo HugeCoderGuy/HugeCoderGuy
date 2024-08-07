@@ -20,6 +20,18 @@ I've done quite a few projects between work and school that aren't captured here
 
 However, a lot of that stuff is done between work and school. Here are some examples of projects I've done mostly because I thought they'd be fun
 ## Some (fun) Things I've Worked on:
+### Ski Binding Din Calculator, Data Logger, and GUI (Python/Cpp)
+<p align="center">
+<img src="https://github.com/HugeCoderGuy/AlpenFlowDinApp/blob/main/img/dinGui.png" width="500" align="center">
+</p>
+The guys at AlpenFlow Designs needed some assistance with their testing so I figured I'd lend them a hand. Definitely had a lot of fun working through both the technical challenges from data collection to thinking through the UX invovled with the application. Python GUI and Backend are up and running and display is from testing. Just need some additional testing with the hardware before shipping it!
+
+<p align="center">
+
+<a href="https://github.com/HugeCoderGuy/AlpenFlowDinApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HugeCoderGuy&repo=AlpenFlowDinApp&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
 ### Lidar's Ability to Identify Wires (Python/ROS):
 <p align="center">
 <img src="https://github.com/Drojas251/Drojas251/blob/master/media/autonomous_navigation.gif">
