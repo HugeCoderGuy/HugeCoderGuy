@@ -1,5 +1,5 @@
 ### Welcome 👋
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugeCoderGuy&hide=jupyter%20notebook,Shell,Cmake,Pascal,java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&layout=compact" alt="side Image" align="right" height="auto" hide=jupyter%20notebook href="https://github.com/HugeCoderGuy/HugeCoderGuy"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugeCoderGuy&hide=jupyter%20notebook,Shell,Cmake,Pascal,java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4&layout=compact" alt="side Image" align="right" height="auto" hide=jupyter%20notebook href="https://github.com/HugeCoderGuy/HugeCoderGuy"/>
 
   
 - I currently work at LLNL creating software for embedded systems peripherals & developmental sensors <a href="https://www.linkedin.com/in/alex-lewis-036635199/">
